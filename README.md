@@ -30,9 +30,14 @@
 <br />
 
 ### Connect with me
-[<img align="left" alt="Romain | LinkedIn" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin] 
-[<img align="left" alt="Romain | Instagram" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
+<p align="center">
+ <a href="https://www.linkedin.com/in/romain-pic/">
+         <img align="left" alt="Romain | LinkedIn" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+ </a>
+ <a href="https://www.instagram.com/pic_romain/">
+        <img align="left" alt="Romain | Instagram" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+ </a>
+</p>
 
 <br />
 
