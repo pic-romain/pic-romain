@@ -2,10 +2,10 @@
 
 ## I'm a Student, Developer, Data Scientist and Physicist!
 
-- 🔭 I am currently doing a Master's Degree in [Data Science][https://www.univ-lyon2.fr/master-2-informatique-statistique-et-informatique-sise-1].
+- 🔭 I am currently doing a Master's Degree in [Data Science][sise].
 - 📚 I also got a Master's Degree in Physics of Complex Systems.
-- 💻 My Spring Internship will be using Regression Forests to Improve Rainfall Predictions at the [LMB][http://lmb.univ-fcomte.fr/]
-- 🚀 You can find my latest research project here : [Drying of Confined PMMa Hydrogels][https://gfm.aps.org/meetings/dfd-2019/5d8028c3199e4c429a9b317e]
+- 💻 My Spring Internship will be using Regression Forests to Improve Rainfall Predictions at the [LMB][lmb]
+- 🚀 You can find my latest research project here : [Drying of Confined PMMa Hydrogels][mit]
 - 🚣 Fun fact: I enjoy rowing and working out !
 
 ### Connect with me:
@@ -23,7 +23,9 @@
 
 <br />
 
-
+[mit][https://gfm.aps.org/meetings/dfd-2019/5d8028c3199e4c429a9b317e]
+[lmb][http://lmb.univ-fcomte.fr/]
+[sise][https://www.univ-lyon2.fr/master-2-informatique-statistique-et-informatique-sise-1]
 [youtube]: https://www.youtube.com/watch?v=Er_yD7y2ZcU&feature=youtu.be
 [instagram]: https://www.instagram.com/pic_romain/
 [linkedin]: https://www.linkedin.com/in/romain-pic/
