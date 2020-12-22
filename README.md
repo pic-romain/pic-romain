@@ -8,6 +8,11 @@
 - 🚀 You can find my latest research project here : [Drying of Confined PMMa Hydrogels][mit]
 - 🚣 Fun fact: I enjoy rowing and working out !
 
+### Connect with me
+<p align="center">
+[<img align="left" alt="Romain | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin] 
+[<img align="left" alt="Romain | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+</p>
 
 <br />
 
@@ -34,12 +39,6 @@
 <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=rpic84&show_icons=true&hide_border=true" />
 
 <br />
-
-### Connect with me
-<p align="center">
-[<img align="left" alt="Romain | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin] 
-[<img align="left" alt="Romain | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-</p>
 
 
 [mit]:https://gfm.aps.org/meetings/dfd-2019/5d8028c3199e4c429a9b317e
