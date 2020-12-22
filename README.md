@@ -22,10 +22,11 @@
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][webdevplaylist]
 
 <br />
+<br />
 
-[mit][https://gfm.aps.org/meetings/dfd-2019/5d8028c3199e4c429a9b317e]
-[lmb][http://lmb.univ-fcomte.fr/]
-[sise][https://www.univ-lyon2.fr/master-2-informatique-statistique-et-informatique-sise-1]
+[mit]:https://gfm.aps.org/meetings/dfd-2019/5d8028c3199e4c429a9b317e
+[lmb]:http://lmb.univ-fcomte.fr/
+[sise]:https://www.univ-lyon2.fr/master-2-informatique-statistique-et-informatique-sise-1
 [youtube]: https://www.youtube.com/watch?v=Er_yD7y2ZcU&feature=youtu.be
 [instagram]: https://www.instagram.com/pic_romain/
 [linkedin]: https://www.linkedin.com/in/romain-pic/
