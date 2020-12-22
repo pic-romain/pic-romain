@@ -7,11 +7,6 @@
 - 💻 My Spring Internship will be using Regression Forests to Improve Rainfall Predictions at the [LMB][lmb]
 - 🚀 You can find my latest research project here : [Drying of Confined PMMa Hydrogels][mit]
 - 🚣 Fun fact: I enjoy rowing and working out !
-<br />
-
-### Connect with me
-[<img align="left" alt="Romain | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin] 
-[<img align="left" alt="Romain | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 
@@ -31,6 +26,13 @@
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/windows/windows.png" alt="Windows" height="40" style="vertical-align:top; margin:4px">
  
 </p>
+
+<br />
+
+### Connect with me
+[<img align="left" alt="Romain | LinkedIn" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin] 
+[<img align="left" alt="Romain | Instagram" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
 
 <br />
 
