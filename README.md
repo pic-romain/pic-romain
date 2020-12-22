@@ -27,8 +27,19 @@
 </p>
 
 ---
-
-<img align="left" alt="rpic84's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=rpic84&show_icons=true&hide_border=true" />
+### :trophy: My Github Stats:
+<!--
+![GitHub stats](https://readme-stats-cfgj2cxdy.vercel.app/api?username=rpic84&count_private=true&show_icons=true&theme=tokyonight)
+![Top Langs](https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=rpic84&hide=php&theme=tokyonight)
+-->
+<div>
+<a href="https://readme-stats-cfgj2cxdy.vercel.app/api?username=rpic84&count_private=true&show_icons=true&theme=tokyonight">
+  <img  align="left" src="https://readme-stats-cfgj2cxdy.vercel.app/api?username=rpic84&count_private=true&show_icons=true&theme=tokyonight" />
+</a>
+<a href="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=rpic84&hide=php&theme=tokyonight">
+  <img align="left" src="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=rpic84&hide=php&theme=tokyonight" />
+</a>
+</div>
 
 [mit]:https://gfm.aps.org/meetings/dfd-2019/5d8028c3199e4c429a9b317e
 [lmb]:http://lmb.univ-fcomte.fr/
