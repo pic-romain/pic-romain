@@ -26,6 +26,8 @@
 <img width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" alt="SQL" height="40" style="vertical-align:top; margin:4px/>
 </p>
 
+<br />
+
 ### :trophy: My Github Stats
 <!--
 ![GitHub stats](https://readme-stats-cfgj2cxdy.vercel.app/api?username=rpic84&count_private=true&show_icons=true&theme=tokyonight)
