@@ -29,7 +29,7 @@
 ### Latest project
 **Spotlight On The Credits**
 
-The goal of this project is to give more credit to **all the artists** behind songs. I decided to create a Twitter bot ([@SpotCreds](https://twitter.com/SpotCredits) that can create playlist for any artist using Genius and Spotify APIs. You can lean more [here](https://github.com/rpic84/spotcreds).
+The goal of this project is to give more credit to **all the artists** behind songs. I decided to create a Twitter bot ([@SpotCreds](https://twitter.com/SpotCredits)) that can create playlist for any artist using Genius and Spotify APIs. You can lean more [here](https://github.com/rpic84/spotcreds).
 <br />
 
 ### Connect with me
