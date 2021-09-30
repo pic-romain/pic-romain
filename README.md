@@ -1,12 +1,11 @@
 ### Hi there, I'm Romain 👋
 
-## I'm a Student, Developer, Data Scientist and Physicist!
+## I'm a PhD Student, Developer, Data Scientist and Physicist!
 
-- 🔭 I am currently doing a Master's Degree in [Data Science][sise].
-- 📚 I also got a Master's Degree in Physics of Complex Systems.
-- 💻 My Spring Internship will be using Regression Forests to Improve Rainfall Predictions at the [LMB][lmb]
+- 🔭 I am currently a PhD Student in Statistics and Computer Science at the [LMB][lmb] where I use Machine Learning to Improve Rainfall Predictions.
+- 📚 I have a Master's Degree in Physics of Complex Systems and Master's Degree in [Data Science][sise].
 - 🚀 You can find my latest research project here : [Drying of Confined PMMa Hydrogels][mit]
-- 🚣 Fun fact: I enjoy rowing and working out !
+- 🚣 Fun fact: I enjoy rowing !
 
 <br />
 
@@ -38,12 +37,6 @@
         <img align="left" alt="Romain | Instagram" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
  </a>
 </p>
-
-<br />
-<br />
-
-### My Github Stats
-<img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=rpic84&show_icons=true&hide_border=true" />
 
 <br />
 
