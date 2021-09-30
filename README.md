@@ -25,7 +25,11 @@
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/windows/windows.png" alt="Windows" height="40" style="vertical-align:top; margin:4px">
  
 </p>
+<br />
+### Latest project
+**Spotlight On The Credits**
 
+The goal of this project is to give more credit to **all the artists** behind songs. I decided to create a Twitter bot ([@SpotCreds](https://twitter.com/SpotCredits) that can create playlist for any artist using Genius and Spotify APIs. You can lean more [here](https://github.com/rpic84/spotcreds).
 <br />
 
 ### Connect with me
