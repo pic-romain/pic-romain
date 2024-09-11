@@ -1,6 +1,6 @@
 # Romain Pic
 
-Finishing a PhD thesis on statistical postprocessing of ensemble forecasts. I'm also a retired [physicist](www.doi.org/10.1103/PhysRevLett.131.118202).
+Freshly obtained my PhD on statistical postprocessing of ensemble forecasts. I'm also a retired [physicist](www.doi.org/10.1103/PhysRevLett.131.118202).
 
 You can find out more about my research on my [personal website](https://pic-romain.github.io/) or on [Google Scholar](https://scholar.google.com/citations?hl=en&user=Bvb-BKAAAAAJ).
 
